@@ -1,0 +1,8 @@
+.myBtn {
+	padding: 5px 15px;
+	color: RebeccaPurple;
+	font-size: 14px;
+	background: transparent;
+	border: 1px solid RebeccaPurple;
+	cursor: pointer;
+}
